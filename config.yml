@@ -1,0 +1,16 @@
+
+# mcsm 面板配置文件
+
+apikey: 'e3c8ffbf.....' # 请填写面板的 apikey，可在面板个人中心找到
+uuid: '4360.....'  # 请填写面板的 uuid，可在面板左下方 实例id
+daemonid: '0bf4.....' # 请填写面板的 daemonid，可在面板左下方 节点ID
+mcsm_url: 'https://' # 请填写面板的 url，注意结尾不要带斜杠
+
+# 腾讯文档配置
+
+documentUrl: 'https://docs.qq.com/'
+PadId: '300000000$'
+cookie: ''
+
+# 文件定位
+filepath: 'E:/qqbot/koishi-app/'
